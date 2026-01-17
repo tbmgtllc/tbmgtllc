@@ -7,13 +7,13 @@
 
 
 
-<img width="1074" height="713" alt="image" src="https://github.com/user-attachments/assets/f4d0f85e-5fee-464a-9ab4-bfbd5a580f6d" />
+<img width="456" height="303" alt="image" src="https://github.com/user-attachments/assets/f4d0f85e-5fee-464a-9ab4-bfbd5a580f6d" />
 
 
 
 
 
-<img width="1072" height="711" alt="image" src="https://github.com/user-attachments/assets/1c3c7cb5-bb22-49df-bd4e-1d023bd733c6" />
+<img width="456" height="303" alt="image" src="https://github.com/user-attachments/assets/1c3c7cb5-bb22-49df-bd4e-1d023bd733c6" />
 
 
 
